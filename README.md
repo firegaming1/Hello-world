@@ -1,2 +1,3 @@
 # Hello-world
-Mi primer repositorio, bueno  hacer algo clasico xD
+
+Hola a todos soy firegaming y el dia de hoy 19 de enero de 2018 les muestro mi primer repositorio llamado "Hello-world"
